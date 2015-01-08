@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guardian</string>
+    <string name="title_activity_main">Guardian</string>
+    <string name="title_activity_maps">Guardian</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="drawer_open">Open navigatie</string>
+    <string name="drawer_close">Sluit navigatie</string>
+    <string name="action_help">Help</string>
+    <string name="action_remove_all">Alles wissen</string>
+    <string name="req_send">Verzoek sturen naar</string>
+
+    <string name="conn_timeout">Verbindingsfout. Probeer Opnieuw.</string>
+    <string name="conn_client_err">Netwerkfout. Probeer Opnieuw.</string>
+    <string name="conn_server_err">Interne Server Fout. Probeer Opnieuw.</string>
+    <string name="netw_err">Netwerkfout. Probeer Opnieuw.</string>
+    <string name="sign_in_fail">Inloggen mislukt.</string>
+    <string name="no_conn">Netwerk niet verbonden</string>
+    <string name="email_not_match">Uw e-mailadressen komen niet overeen.</string>
+    <string name="no_valid_email">U heeft geen geldig e-mail adres ingevoerd.</string>
+    <string name="encoding_err">Codering fout. Probeer Opnieuw.</string>
+    <string name="req_delay">Probeer het opnieuw in</string>
+
+    <string name="logged_in">Je bent succesvol ingelogd.</string>
+    <string name="please_wait">Een moment geduld a.u.b.</string>
+    <string name="register">Registreren</string>
+    <string name="sign_up">Aanmelden</string>
+    <string name="sign_in">Inloggen</string>
+    <string name="new_subscription">Nieuw device toevoegen</string>
+    <string name="add_device">Nieuw apparaat toevoegen</string>
+    <string name="authorized">je verzoek is geaccepteerd</string>
+    <string name="pending">In afwachting</string>
+    <string name="req_delay_format">sec</string>
+    <string name="del_item">item verwijderen?</string>
+    <string name="del_item_1">items verwijderd</string>
+    <string name="approved_req">Verzoek geaccepteerd</string>
+    <string name="approved_req_1">Je hebt een verzoek geaccepteerd voor</string>
+    <string name="pending_approval">Wachtend op toestemming</string>
+    <string name="system_log">Systeem log</string>
+    <string name="pending_permission">Wachtend op toestemming</string>
+    <string name="call_in">Inkomende oproep door</string>
+    <string name="call_out">Uitgaande oproep door</string>
+    <string name="loc_change">Locatie veranderd door</string>
+    <string name="touch_show_map">raak aan om de kaart te tonen</string>
+    <string name="sub_req_2">vraagt toestemming om je te volgen</string>
+    <string name="sub_req_accept">Verzoek geaccepteerd door</string>
+    <string name="not_accepted_req">verzoek niet geaccepteerd</string>
+    <string name="loc_update">Locatie -update door</string>
+    <string name="test_noti">Guardian test notificatie</string>
+    <string name="require_input">Oeps! U bent een veld vergeten in te vullen</string>
+
+    <string name="go_register">Ik heb nog geen account. Meld mij aan.</string>
+    <string name="go_login">Ik heb al een account. Inloggen</string>
+    <string name="registered_and_logged">Je bent met succes geregistreerd en ingelogd</string>
+
+    <string name="password">wachtwoord</string>
+    <string name="email">emailadres</string>
+    <string name="re_enter_email">herhaal emailadres</string>
+    <string name="name">naam</string>
+
+    <string name="enter_guardian_id">Voer het Guardian-ID in van het apparaat dat u wilt volgen.</string>
+    <string name="add_guardian_id">Toevoegen</string>
+
+    <string name="accept_req">verzoek accepteren</string>
+    <string name="del_req">verzoek verwijderen</string>
+    <string name="resend_req">verzoek opnieuw verzenden</string>
+    <string name="send_req">Verzoek verzonden aan</string>
+    <string name="received_req">Verzoek ontvangen</string>
+    <string name="del_all_items">alle items verwijderen?</string>
+    <string name="yes">ja</string>
+    <string name="no">nee</string>
+    <string name="approve_req">verzoek goedkeuren?</string>
+    <string name="account_gid_descr">Abboneer op of publiseer naar andere apparaten met je Guardian-ID</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Dashboard</item><!-- <string name="action_example">New</string> -->
+        <item>Gesprekken</item>
+        <item>Internet</item>
+        <item>Afbeeldingen</item>
+        <item>Locaties</item>
+        <item>Volgend</item>
+        <item>Volgers</item>
+        <item>Account</item>
+        <item>Over Guardian</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_subitems_array">
+        <item>Meldingen</item><!-- <string name="action_example">New</string> -->
+        <item>Bel geschiedenis</item>
+        <item>Browser geschiedenis</item>
+        <item>Foto\'s op het apparaat</item>
+        <item>GPS Locaties</item>
+        <item>Monitor andere apparaten</item>
+        <item>Monitor dit apparaat</item>
+        <item>ID &amp; account informatie</item>
+        <item>Informatie over Guardian</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_sections_array">
+        <item>MENU</item><!-- <string name="action_example">New</string> -->
+        <item>ACCOUNT</item>
+    </string-array>
+</resources>

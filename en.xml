@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guardian</string>
+    <string name="title_activity_main">Guardian</string>
+    <string name="title_activity_maps">Guardian</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_help">Help</string>
+    <string name="action_remove_all">Remove all items</string>
+    <string name="req_send">Subscription request send to</string>
+
+    <string name="conn_timeout">Connection timeout. Try Again.</string>
+    <string name="conn_client_err">Client error. Try Again.</string>
+    <string name="conn_server_err">Internal Server Error. Try Again.</string>
+    <string name="netw_err">Network error. Try again.</string>
+    <string name="sign_in_fail">Login failed. Invalid username or password.</string>
+    <string name="no_conn">Network not connected</string>
+    <string name="email_not_match">Your email addresses do not match</string>
+    <string name="no_valid_email">That doesn\'t seem to be a valid email addresses</string>
+    <string name="encoding_err">Encoding error. Try Again.</string>
+    <string name="req_delay">Please try again in</string>
+
+    <string name="logged_in">You have been successfully logged in.</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_subscription">Subscribe new user</string>
+    <string name="add_device">Add new device</string>
+    <string name="authorized">Approved</string>
+    <string name="pending">Pending</string>
+    <string name="req_delay_format">sec</string>
+    <string name="del_item">remove item?</string>
+    <string name="del_item_1">items removed</string>
+    <string name="approved_req">Request approved</string>
+    <string name="approved_req_1">You\'ve approved a subscription request for</string>
+    <string name="pending_approval">Waiting for approval</string>
+    <string name="system_log">System log</string>
+    <string name="pending_permission">Waiting for approval</string>
+    <string name="call_in">Incoming call by</string>
+    <string name="call_out">Outgoing call by</string>
+    <string name="loc_change">Location changed by</string>
+    <string name="touch_show_map">touch to show map</string>
+    <string name="sub_req_2">asks permission to follow you</string>
+    <string name="sub_req_accept">Subscription request accepted by</string>
+    <string name="not_accepted_req">Not accepting subscription</string>
+    <string name="loc_update">Location update by</string>
+    <string name="test_noti">Guardian test notification</string>
+    <string name="require_input">You forgot to fill out one of the required fields.</string>
+
+    <string name="go_register">I don\'t have an account. Sign me up!</string>
+    <string name="go_login">Already registered. Sign me in!</string>
+    <string name="registered_and_logged">You have been successfully registered and logged in</string>
+
+    <string name="password">password</string>
+    <string name="email">email address</string>
+    <string name="re_enter_email">re-enter email address</string>
+    <string name="name">name</string>
+
+    <string name="enter_guardian_id">Enter the Guardian-ID of the device you want to follow.</string>
+    <string name="add_guardian_id">Add</string>
+
+    <string name="accept_req">accept request</string>
+    <string name="del_req">remove request</string>
+    <string name="resend_req">resend request</string>
+    <string name="send_req">send request</string>
+    <string name="received_req">received request</string>
+    <string name="del_all_items">remove all items?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="approve_req">approve request?</string>
+    <string name="account_gid_descr">Subscribe or publish to other devices with your Guardian-ID</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Dashboard</item><!-- <string name="action_example">New</string> -->
+        <item>Calls</item>
+        <item>Internet</item>
+        <item>Pictures</item>
+        <item>Locations</item>
+        <item>Following</item>
+        <item>Followers</item>
+        <item>Account</item>
+        <item>About Guardian</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_subitems_array">
+        <item>Notifications</item><!-- <string name="action_example">New</string> -->
+        <item>Call history</item>
+        <item>Browser URL\'s</item>
+        <item>Pictures on device</item>
+        <item>Map locations</item>
+        <item>Monitor other devices</item>
+        <item>Monitor this device</item>
+        <item>ID &amp; account info</item>
+        <item>About Guardian</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_sections_array">
+        <item>MENU</item><!-- <string name="action_example">New</string> -->
+        <item>ACCOUNT</item>
+    </string-array>
+</resources>
